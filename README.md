@@ -7,7 +7,7 @@ The dataset contains field boundaries for smallholder farms in eastern Rwanda. T
 The starter notebook focuses on a baseline model using UNet to walk you through the process of loading and structuring the data, training the model, and exporting the predictions to the sample CSV file.
 
 ## Environment
-The notebook `Nasa_Harvest_Model_MLHub.ipynb` can be run locally using the `requirements_local.txt` file on Python 3.8.13 with minimum RAM : 8GB
+The notebook `Nasa_Harvest_Model_MLHub.ipynb` can be run locally using the `requirements.txt` file on Python 3.8.13 with minimum RAM : 8GB
 
 There is a version of the same notebook on google colaboratory [Google Colab]('https://colab.research.google.com/gist/magabenza/f73b79da065913cdbbcdb080bc1d2be9/nasa_harvest_model_mlhub_colab.ipynb')
 

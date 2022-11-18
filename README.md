@@ -9,7 +9,7 @@ The starter notebook focuses on a baseline model using UNet to walk you through 
 ## Environment
 The notebook `Nasa_Harvest_Model_MLHub.ipynb` can be run locally using the `requirements.txt` file on Python 3.8.13 with minimum RAM : 8GB
 
-There is a version of the same notebook on google colaboratory [Google Colab]('https://colab.research.google.com/gist/magabenza/f73b79da065913cdbbcdb080bc1d2be9/nasa_harvest_model_mlhub_colab.ipynb')
+There is a version of the same notebook on google colaboratory [Google Colab](https://colab.research.google.com/gist/magabenza/f73b79da065913cdbbcdb080bc1d2be9/nasa_harvest_model_mlhub_colab.ipynb)
 
 ## Competition Organizers
 ### About Radiant Earth Foundation ([radiant.earth](https://radiant.earth))
